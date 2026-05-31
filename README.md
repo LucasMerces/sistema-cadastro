@@ -66,7 +66,7 @@ java -jar sistema-simples.jar
 Opção 2 — compilando na mão:
 javac -d out $(find src -name "*.java")
 java -cp out Main
----
+
 
 Padrão MVC
 
